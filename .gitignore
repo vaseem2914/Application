@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 /build/
 /target/
+=======
+/target/
+/build/
+.classpath
+.settings
+>>>>>>> df8948233ba83278c4fdf0ddf6f66573dad58b9f
